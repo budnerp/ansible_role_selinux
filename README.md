@@ -6,6 +6,8 @@ How to check if SELinux is enabled? Run:
 sestatus
 ```
 
-###Links
+## Other links
 - selinux - Change policy and state of SELinux [https://docs.ansible.com/ansible/latest/modules/selinux_module.html]()
 
+## License
+Copyright (c) We Are Interactive under the MIT license.
