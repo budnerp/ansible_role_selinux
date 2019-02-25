@@ -1,5 +1,5 @@
 ---
-- name: Disable SELinux
+- name: SELINUX - disable SELinux
   selinux:
     state: disabled
   notify:
