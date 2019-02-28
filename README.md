@@ -1,5 +1,5 @@
 # Ansible role for SELinux
-Ansible role selinux - Change policy and state of SELinux
+Ansible role selinux - Change policy and state of SELinux for CentOS 7
 
 How to check if SELinux is enabled? Run:
 ```
